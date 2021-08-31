@@ -17,7 +17,6 @@
 -----
 ### <p align="center">📞 &nbsp;Me Contacter</p>
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/236901304042127371.png">
   <br>
   <br>
   alan@radioa.fr
